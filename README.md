@@ -1,5 +1,5 @@
 # Arduino-line-following-robot.Basic.
-This Code is for Easy Arduino line following robot with 4 line sensing array.
+This Code is for Easy Arduino line following robot with 4 line sensing array. watch https://www.youtube.com/edit?o=U&video_id=XX5PVZ2tiVY
      
      
     #define S1 2    //sensor1
