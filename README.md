@@ -2,9 +2,9 @@
 This Code is for Easy Arduino line following robot with 4 line sensing array.
      
      
-    #define S1 2   //sensor1
-    #define S2 3   //sensor2
-    #define  S3 4 //sensor3
+    #define S1 2    //sensor1
+    #define S2 3    //sensor2
+    #define  S3 4   //sensor3
     #define S4 5    //sensor4
     #define LM1 7   //left motor pin
     #define RM1 8   //right motor pin
